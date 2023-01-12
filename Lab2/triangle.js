@@ -68,7 +68,7 @@ function triangle(val1, ty1, val2, ty2) {
         else{
             return 'Прочитайте інструкцію ще раз failed';
         }
-    }   // result
+    }   
         return console.log(`a = ${a}\nb = ${b}\nc = ${c}\nalpha = ${alpha}\nbeta = ${beta}\n"success"`);
 }
 console.log(" Введіть в консолі виклик функції, наприклад: triangle(3, \"leg\" , 4 , \"hypotenuse\")")
