@@ -10,6 +10,9 @@ h1{
     flex-flow: wrap;
     justify-content: center;
     width: 100%;
+    row-gap: 10px;
+    column-gap: 10px;
+
 }
 .p1{
     background-color: #d2a907;
@@ -17,9 +20,8 @@ h1{
     margin-right: 0;
     margin-top: 0;
     border: 1px solid black;
-    width: 35%;
     text-align: center;
-
+    width: 100px;
 }
 .p2{
     background-color: #c433ff;
@@ -27,9 +29,8 @@ h1{
     margin-right: 0;
     margin-top: 0;
     border: 1px solid black;
-    width: 35%;
     text-align: center;
-
+    width: 100px;
 }
 .p3{
     background-color: #fde8ae;
@@ -37,14 +38,13 @@ h1{
     margin-right: 0;
     margin-top: 0;
     border: 1px solid black;
-    width: 35%;
     text-align: center;
-
+    width: 100px;
 }
 .block{
     background-color: #bbe5bb;
-    margin: 4%;
     border: 2px solid black;
+
 }
 .content{
     padding: 0 3% 3% 3%;
@@ -98,6 +98,9 @@ h1{
     .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
         border: 2px solid black;
     }
+   .block{
+       flex-grow: 1;
+   }
     .col-md-1 {
         width: 8.33%;
     }
