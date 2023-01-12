@@ -8,7 +8,10 @@ h1{
 .row {
     display: grid;
     justify-content: center;
+    border: 1px solid rgba(122, 119, 109, 0.22);
     width: 100%;
+    row-gap: 10px;
+    column-gap: 10px;
 }
 .p1{
     background-color: #d2a907;
@@ -16,7 +19,7 @@ h1{
     margin-right: 0;
     margin-top: 0;
     border: 1px solid black;
-    width: 35%;
+    width: 100px;
     text-align: center;
 
 }
@@ -28,7 +31,7 @@ h1{
     border: 1px solid black;
     width: 35%;
     text-align: center;
-
+    width: 100px;
 }
 .p3{
     background-color: #fde8ae;
@@ -38,26 +41,52 @@ h1{
     border: 1px solid black;
     width: 35%;
     text-align: center;
-
+    width: 100px;
 }
 .block{
     background-color: #bbe5bb;
-    margin: 15px;
     border: 2px solid black;
 
 }
 .content{
+    width: 100%;
     padding: 0 3% 3% 3%;
     text-align: left;
 }
 @media (min-width: 992px)  {
     .row {
-        grid-template-columns: 30% 30% 30%;
+        grid-template-columns: auto;
+
+        grid-template-areas:
+"a b c";
     }
+
+.a{
+    grid-area: a;
+}
+.b{
+    grid-area: b;
+}
+.c{
+    grid-area: c;
+}
 }
 
+
 @media (min-width: 768px) and (max-width: 992px) {
-    .block:nth-child(3){
-        grid-column: span 2;
+    .a{
+        grid-area: a;
     }
-}
+    .b{
+        grid-area: b;
+    }
+    .c{
+        grid-area: c;
+    }
+ .row{ grid-template-columns: 50% 50%;
+     grid-template-rows: auto;
+     grid-template-areas:
+    "a b"
+    "c c";
+ }}
+
