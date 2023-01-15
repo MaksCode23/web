@@ -1,0 +1,39 @@
+{
+    "catalog_items":[
+        {
+            "id":6,
+            "short_name":"B-1",
+            "name":"GEFORCE RTX 3080 TI X3 (N308T3-126X-1810VA44)",
+            "description":"Відеокарта  NVIDIA GeForce RTX 3080 Ti  частота GPU: 1665 (Boost) МГц  GDDR6X  12 ГБ  частота пам'яті: 19000 МГц  шина: 384 біт  PCI Express 4.0",
+            "price":"37 885 грн"
+        },
+        {
+            "id":7,
+            "short_name":"B-2",
+            "name":"Palit GeForce RTX 4080 GameRock OmniBlack (NED4080019T2-1030Q)",
+            "description":"Відеокарта  NVIDIA GeForce RTX 4080  частота GPU: 2505 (Boost) МГц  GDDR6X  16 ГБ  частота пам'яті: 22400 МГц  шина: 256 біт  PCI Express 4.0",
+            "price":"50 299 – 60 600 грн"
+        },
+        {
+            "id":8,
+            "short_name":"B-3",
+            "name":"A MSI GeForce RTX 3060 VENTUS 2X 12G OC",
+            "description":"MSI GeForce RTX 3060 VENTUS 2X 12G OC - представник універсальних відеокарт в лінійці представлених в 2020 році рішень. Вона відмінно підходить для збірки як досить просунутої ігрової, так і робочої системи. В MSI GeForce RTX 3060 VENTUS 2X 12G OC встановлюються графічні чіпи NVIDIA Ampere",
+            "price":"16 400 – 24 000 грн"
+        },
+        {
+            "id":9,
+            "short_name":"B-4",
+            "name":"A MSI GeForce RTX 3060 VENTUS 2X 12G OC",
+            "description":"MSI GeForce RTX 3060 VENTUS 2X 12G OC - представник універсальних відеокарт в лінійці представлених в 2020 році рішень. Вона відмінно підходить для збірки як досить просунутої ігрової, так і робочої системи. В MSI GeForce RTX 3060 VENTUS 2X 12G OC встановлюються графічні чіпи NVIDIA Ampere",
+            "price":"16 400 – 24 000 грн"
+        },
+        {
+            "id":10,
+            "short_name":"B-5",
+            "name":"A MSI GeForce RTX 3060 VENTUS 2X 12G OC",
+            "description":"MSI GeForce RTX 3060 VENTUS 2X 12G OC - представник універсальних відеокарт в лінійці представлених в 2020 році рішень. Вона відмінно підходить для збірки як досить просунутої ігрової, так і робочої системи. В MSI GeForce RTX 3060 VENTUS 2X 12G OC встановлюються графічні чіпи NVIDIA Ampere",
+            "price":"16 400 – 24 000 грн"
+        }
+    ]
+}

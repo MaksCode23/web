@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "short_name":"A",
+        "name":"Процессори",
+        "notes":"",
+        "url":"data/catalog/A.json"
+    },
+    {
+        "id": 2,
+        "short_name":"B",
+        "name":"Відео карти",
+        "notes":"",
+        "url":"data/catalog/B.json"
+    },
+    {
+        "id": 3,
+        "short_name":"C",
+        "name":"Оперативна пам'ять",
+        "notes":"",
+        "url":"data/catalog/C.json"
+    },
+    {
+        "id": 4,
+        "short_name":"D",
+        "name":"Материнки",
+        "notes":"",
+        "url":"data/catalog/D.json"
+    },
+    {
+        "id": 5,
+        "short_name":"Special",
+        "name":"Випадкова категорія",
+        "notes":"",
+        "url":""
+    }
+]

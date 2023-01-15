@@ -1,0 +1,39 @@
+{
+    "catalog_items":[
+        {
+            "id":16,
+            "short_name":"D-1",
+            "name":"GIGABYTE B550 Gaming X V2",
+            "description":"Материнська плата  Socket AM4  AMD B550  4xDDR4 4733 МГц, до 128 ГБ  відео: інтегровано в процесор AMD  1x PCI Express 4.0 x16 (x16), 1x PCI Express 3.0 x16 (x2)  ATX",
+            "price":"4 576 – 5 312 грн"
+        },
+        {
+            "id":17,
+            "short_name":"D-2",
+            "name":"MSI MPG Z790 EDGE WIFI",
+            "description":"Материнська плата  Socket 1700  Intel Z790  4xDDR5 7200+ МГц, до 128 ГБ  відео: інтегровано в процесор Intel  1x PCI Express 5.0 x16 (x16), 1x PCI Express 4.0 x16 (x4)  ATX, 304,8 Х243",
+            "price":"15 244 – 16 878 грн"
+        },
+        {
+            "id":18,
+            "short_name":"D-3",
+            "name":"GIGABYTE Z690 GAMING X DDR4",
+            "description":"Материнська плата  Socket 1700  Intel Z690  4xDDR4 5333 МГц, до 128 ГБ  відео: інтегровано в процесор Intel  1x PCI Express 5.0 x16 (x16), 2x PCI Express 3.0 x16 (x4)  ATX",
+            "price":"7 978 – 10 277 грн"
+        },
+        {
+            "id":19,
+            "short_name":"D-4",
+            "name":"GIGABYTE Z690 GAMING X DDR4",
+            "description":"Материнська плата  Socket 1700  Intel Z690  4xDDR4 5333 МГц, до 128 ГБ  відео: інтегровано в процесор Intel  1x PCI Express 5.0 x16 (x16), 2x PCI Express 3.0 x16 (x4)  ATX",
+            "price":"7 978 – 10 277 грн"
+        },
+        {
+            "id":20,
+            "short_name":"D-5",
+            "name":"GIGABYTE Z690 GAMING X DDR4",
+            "description":"Материнська плата  Socket 1700  Intel Z690  4xDDR4 5333 МГц, до 128 ГБ  відео: інтегровано в процесор Intel  1x PCI Express 5.0 x16 (x16), 2x PCI Express 3.0 x16 (x4)  ATX",
+            "price":"7 978 – 10 277 грн"
+        }
+    ]
+}
